@@ -1,4 +1,12 @@
-#Remote state azure storage account (blob)
+/*
+
+ +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ |w|w|w|.|r|l|e|v|c|h|e|n|k|o|.|c|o|m|
+ +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+ 
+
+ :: Terraform remote state configuration (Blob)
+    
+*/
 
 terraform {
   backend "azurerm" {

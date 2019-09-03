@@ -1,3 +1,13 @@
+/*
+
+ +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ |w|w|w|.|r|l|e|v|c|h|e|n|k|o|.|c|o|m|
+ +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+ 
+
+ :: Azure provider authentication
+    
+*/
+
 variable "client_secret" {} #Variable to store SP's password
 
 provider "azurerm" {

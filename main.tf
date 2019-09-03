@@ -1,3 +1,14 @@
+/*
+
+ +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ |w|w|w|.|r|l|e|v|c|h|e|n|k|o|.|c|o|m|
+ +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+ 
+
+ :: Terraform main confiration file
+ :: Deploys VMs with Availability Set, Load Balancer, NSGs and adds VMs to Azure DevOps Deployment Group (CD)
+    
+*/
+
 #Environments sample
 locals {
   environment = "${terraform.workspace}"
