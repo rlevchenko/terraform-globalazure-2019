@@ -1,3 +1,5 @@
 # terraform-globalazure-2019
 Global Azure Bootcamp 2019 | Terraform and Azure ARM Templates
 Source code for my session: https://www.youtube.com/watch?v=4STzE3FANlQ&t=16336s
+
+Terraform uses Azure provider to configure CD environment for Azude DevOps pipeline. The main configuration file automates deployment of VMs, availability set, load balancer, NSGs and registers VMs with Azure DevOps Deployment Group to make possible CD. 
