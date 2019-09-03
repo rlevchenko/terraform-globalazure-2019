@@ -1,5 +1,5 @@
 # terraform-globalazure-2019
-Global Azure Bootcamp 2019 | Terraform and Azure ARM Templates
+Global Azure Bootcamp 2019 | Deploying Infrastructure as Code with Azure ARM templates and Terraform
 
 Source code for my session: https://www.youtube.com/watch?v=4STzE3FANlQ&t=16336s
 
