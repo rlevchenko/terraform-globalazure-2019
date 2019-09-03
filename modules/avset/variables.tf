@@ -12,7 +12,7 @@ variable "location" {
 }
 
 variable "avset_name" {
-  description = "Name"
+  description = "Availability set name"
 }
 
 variable "rg_name" {
